@@ -4,3 +4,5 @@ test/Packages
 test/ProjectSettings
 test/Temp
 test/UserSettings
+test/.vscode
+test/test.sln
